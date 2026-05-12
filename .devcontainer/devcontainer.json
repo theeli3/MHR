@@ -31,6 +31,6 @@
   },
   "forwardPorts": [443, 8080],
   "hostRequirements": {
-    "cpus": 2
+    "cpus": 4
   }
 }
